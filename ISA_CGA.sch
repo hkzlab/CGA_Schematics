@@ -121,7 +121,7 @@ P 5100 3350
 AR Path="/60463BAE/607513C2" Ref="U?"  Part="2" 
 AR Path="/607513C2" Ref="U14"  Part="5" 
 F 0 "U14" H 5050 3700 50  0000 R CNN
-F 1 "74LS32" H 5400 3700 50  0000 R CNN
+F 1 "74S32" H 5400 3700 50  0000 R CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5100 3350 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS32" H 5100 3350 50  0001 C CNN
 	5    5100 3350
@@ -721,4 +721,6 @@ Wire Wire Line
 Connection ~ 6400 5700
 Wire Wire Line
 	6400 5700 7000 5700
+Text Notes 650  6350 0    50   ~ 0
+NOTES:\n- U14 is 74LS32 on schematics and 74S32 on a real board
 $EndSCHEMATC
