@@ -1685,12 +1685,12 @@ Wire Wire Line
 	11450 6500 11750 6500
 Wire Wire Line
 	11450 6200 11750 6200
+Text Notes 11450 950  0    100  ~ 0
+My CGA board uses 8x MCM4517P12 DRAM chips
 Wire Bus Line
 	9650 1200 9650 8550
 Wire Bus Line
 	11350 1200 11350 8550
 Wire Bus Line
 	13850 1200 13850 8550
-Text Notes 11450 950  0    100  ~ 0
-My CGA board uses 8x MCM4517P12 DRAM chips
 $EndSCHEMATC
