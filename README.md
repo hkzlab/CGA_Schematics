@@ -9,8 +9,9 @@ Original picture under CC BY-SA 4.0, found [here](https://en.wikipedia.org/wiki/
 
 ## WARNING
 
-This schematic has not yet been verified, it could (and, I'm sure, will) contain errors!
 **Help in double checking** and finding issues is appreciated: you can find the original manual [here](docs/Color_Graphics_Adapter_-_Manual.pdf), 
 see pages 32-37.
+
+I used this schematic with kicad to build a clone (CGA Redux), which apparently works fine.
 
 
